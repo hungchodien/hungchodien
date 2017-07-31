@@ -1,0 +1,105 @@
+/*
+Theme Name: ALI-theme
+Theme URI: http://tokyodesignroom.com
+Author: The TDR Team
+Author URI: http://tokyodesignroom.com
+Version: 1.0
+Description: The WP theme, which is developed by TDR Team.
+*/
+
+
+
+
+
+/* Media queries
+-----------------------------------------*/
+@media (min-width: 1200px){
+
+
+}
+@media screen and (max-width:1199px) {
+
+}
+@media screen and (max-width:991px) {
+
+}
+@media screen and (max-width:767px) {
+
+} /*end 767*/
+@media screen and (max-width:499px) {
+
+} /*end 767*/
+
+.w100p{
+	width: 100%;
+}
+.hAuto{
+	height: auto;
+}
+.bgBlack{
+	background-color: black;
+}
+.bgTransparent{
+	background-color: transparent;
+}
+.bgAqua{
+	background-color: aqua!important;
+}
+.bgChartreuse{
+	background-color: chartreuse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
